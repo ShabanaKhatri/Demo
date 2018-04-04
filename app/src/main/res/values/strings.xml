@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="name">Name</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="signup_here">Don\'t have an account? Register Here</string>
+    <string name="login">Login</string>
+    <string name="welcome_message">Welcome to\n demo project</string>
+    <string name="contact_no">Mobile No</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="name_validation">Please enter name</string>
+    <string name="email_validation">Please enter email id</string>
+    <string name="invalid_email">Please enter valid email id</string>
+    <string name="mo_no_validations">Please enter mobile no</string>
+    <string name="invalid_mobile_no">Please enter valid mobile no</string>
+    <string name="password_validation">Please enter password</string>
+    <string name="confirm_password_validation">Please enter confirm password</string>
+    <string name="password_not_matches">Password not match</string>
+    <string name="users">Users</string>
+    <string name="image_validation">Please upload profile picture</string>
+    <string name="error_login">Email or password is wrong</string>
+    <string name="user_exist">User already exist</string>
+</resources>

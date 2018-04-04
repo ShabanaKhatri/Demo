@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66038297646",
+    "firebase_url": "https://fir-task-611aa.firebaseio.com",
+    "project_id": "fir-task-611aa",
+    "storage_bucket": "fir-task-611aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66038297646:android:df0e6f2d32e4ba67",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66038297646-vja5ahu76evujnt1j2iejpr33gtots8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GKNhi0ckb7QJMSgv0I6gpw6ZCeSXdKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
